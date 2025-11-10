@@ -1,5 +1,5 @@
 using System;
-
+s
 public class Entry
 {
     public DateTime _date;
@@ -20,3 +20,4 @@ public class Entry
         Console.WriteLine($"Response: {_response}\n");
     }
 }
+
