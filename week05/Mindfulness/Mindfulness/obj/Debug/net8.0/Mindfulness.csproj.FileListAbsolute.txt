@@ -1,0 +1,14 @@
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\bin\Debug\net8.0\Mindfulness.exe
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\bin\Debug\net8.0\Mindfulness.deps.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\bin\Debug\net8.0\Mindfulness.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\bin\Debug\net8.0\Mindfulness.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\Mindfulness.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\refint\Mindfulness.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\Mindfulness.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK5\Mindfulness\obj\Debug\net8.0\ref\Mindfulness.dll
