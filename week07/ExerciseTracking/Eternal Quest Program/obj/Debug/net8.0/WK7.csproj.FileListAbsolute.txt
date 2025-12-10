@@ -1,0 +1,28 @@
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\bin\Debug\net8.0\WK7.exe
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\bin\Debug\net8.0\WK7.deps.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\bin\Debug\net8.0\WK7.runtimeconfig.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\bin\Debug\net8.0\WK7.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\bin\Debug\net8.0\WK7.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\WK7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\WK7.AssemblyInfoInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\WK7.AssemblyInfo.cs
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\WK7.csproj.CoreCompileInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\WK7.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\refint\WK7.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\WK7.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\WK7.genruntimeconfig.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\obj\Debug\net8.0\ref\WK7.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\bin\Debug\net8.0\WK7.exe
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\bin\Debug\net8.0\WK7.deps.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\bin\Debug\net8.0\WK7.runtimeconfig.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\bin\Debug\net8.0\WK7.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\bin\Debug\net8.0\WK7.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\WK7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\WK7.AssemblyInfoInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\WK7.AssemblyInfo.cs
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\WK7.csproj.CoreCompileInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\WK7.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\refint\WK7.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\WK7.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\WK7.genruntimeconfig.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Eternal Quest Program\obj\Debug\net8.0\ref\WK7.dll
