@@ -1,0 +1,14 @@
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\bin\Debug\net8.0\Exercise Tracking Program.exe
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\bin\Debug\net8.0\Exercise Tracking Program.deps.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\bin\Debug\net8.0\Exercise Tracking Program.runtimeconfig.json
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\bin\Debug\net8.0\Exercise Tracking Program.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\bin\Debug\net8.0\Exercise Tracking Program.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\Exercise Tracking Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\Exercise Tracking Program.AssemblyInfoInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\Exercise Tracking Program.AssemblyInfo.cs
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\Exercise Tracking Program.csproj.CoreCompileInputs.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\Exercise Tracking Program.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\refint\Exercise Tracking Program.dll
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\Exercise Tracking Program.pdb
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\Exercise Tracking Program.genruntimeconfig.cache
+C:\Users\nefim\OneDrive\Escritorio\byupathway_Worldwide\CSE210\WK7\Exercise Tracking Program\obj\Debug\net8.0\ref\Exercise Tracking Program.dll
